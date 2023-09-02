@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+networkx
+trimesh
+matplotlib
+shapely
+simple-3dviz
+scipy
