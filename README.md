@@ -1,5 +1,7 @@
 This repository is based on [BlenderProc](https://github.com/DLR-RM/BlenderProc) and [ATISS](https://github.com/nv-tlabs/ATISS).
 
+Run: bash create_dataset.sh
+
 ## ATISS: Autoregressive Transformers for Indoor Scene Synthesis
 <p>
     <img width="240" alt="Example 1" src="img/room_1.gif"/>
